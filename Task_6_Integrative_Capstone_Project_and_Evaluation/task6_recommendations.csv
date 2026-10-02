@@ -1,0 +1,6 @@
+Area,Recommendation
+Customer retention,Use customer purchase behavior and predicted repeat-purchase probability to support retention analysis.
+Customer segmentation,Use RFM-based segments to differentiate customer engagement and value patterns.
+Marketing personalization,Test personalized campaigns for customer groups with different behavioral characteristics.
+Model deployment,Use model probabilities as decision-support information rather than as automatic customer decisions.
+Model improvement,Evaluate richer temporal and product-level features and multiple time-based validation periods.
